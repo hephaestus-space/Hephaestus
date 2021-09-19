@@ -49,6 +49,7 @@ Format: ![Alt Text](url)
 <li class="has-line-data" data-line-start="44" data-line-end="45">12 Digital pin</li>
 <li class="has-line-data" data-line-start="45" data-line-end="46">additional spi line</li>
 <li class="has-line-data" data-line-start="46" data-line-end="47">Buzzer</li>
+  <li class="has-line-data" data-line-start="46" data-line-end="48">Sound sensor</li>
 </ul>
 <p class="has-line-data" data-line-start="49" data-line-end="50">The project was entirely carried out by <a href="https://www.instagram.com/christianferracane/">Christian Ferracane</a> on EasyEda, here his <a href="ferracanechristian.it@gmail.com">email</a> (and instagram) for any specific request.</p>
 <p class="has-line-data" data-line-start="52" data-line-end="53">As <a href="https://www.instagram.com/christianferracane/">Christian Ferracane</a> writes on the <a href="https://www.hephaestus.space">Hephaestus’website</a></p>
