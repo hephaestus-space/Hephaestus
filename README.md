@@ -1,3 +1,8 @@
+Vocabulary: 
+Andromeda --> Avionics
+Athena --> Rocket
+Cassiopeia --> Launchpad
+
 # Hephaestus rocketry
 
 Thrust Vectored Controlled rocket.
