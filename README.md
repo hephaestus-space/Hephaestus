@@ -1,4 +1,5 @@
-# athena
+# Hephaestus rocketry
+
 Thrust Vectored Controlled rocket.
 <h1 style="color: #5e9ca0;">Andromeda V5.0 is now OpenSource!!</h1>
 <h2 style="color: #2e6c80;">How to get yours:</h2>
