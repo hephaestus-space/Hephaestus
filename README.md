@@ -116,6 +116,48 @@ Instructions on how to use them in your own application are linked below.</p>
 
 
 
+<h2 class="code-line" data-line-start=82 data-line-end=83 ><a id="Maker_Faire_Rome_82"></a>Maker Faire Rome</h2>
+
+![image](https://user-images.githubusercontent.com/81572328/148215960-1c7b8778-d073-4062-aece-820d87590c14.png)
+<p class="has-line-data" data-line-start="84" data-line-end="86">We exhibited the project at maker faire rome 2021.<br>
+Many newspapers have included us in the top 20 of the best projects presented.</p> 
+
+
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>source</th>
+<th>link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>La Repubblica</td>
+<td><a href="https://www.italian.tech/dossier/cronache-dal-futuro/2021/10/01/news/maker_faire_roma_top_20_progetti-319667768/">https://www.italian.tech/dossier/cronache-dal-futuro/2021/10/01/news/maker_faire_roma_top_20_progetti-319667768/</a></td>
+</tr>
+<tr>
+<td>World Mag@zine</td>
+<td><a href="https://www.worldmagazine.it/564930/">https://www.worldmagazine.it/564930/</a></td>
+</tr>
+<tr>
+<td>Tgcom24</td>
+<td><a href="https://generazioni.tgcom24.it/2021/10/06/lottimismo-dellinnovazione/">https://generazioni.tgcom24.it/2021/10/06/lottimismo-dellinnovazione/</a></td>
+</tr>
+<tr>
+<td>PCBway+</td>
+<td><a href="https://www.pcbway.com/project/sponsor/Hephaestus_Rocketry_Team.html">https://www.pcbway.com/project/sponsor/Hephaestus_Rocketry_Team.html</a></td>
+</tr>
+</tbody>
+</table>
+
+<p class="has-line-data" data-line-start="87" data-line-end="88">I, on the other hand, was defined as one of the protagonists of the edition by Maker Faire itself.</p>
+
+
+![makerfaire christian ferracane](https://user-images.githubusercontent.com/81572328/148217213-cc05a075-5b83-4849-bc10-89d0f89fe209.png)
+https://makerfairerome.eu/en/makers-starring-at-mfr2021-christian-ferracane/
+
+
+
 <h2 class="code-line" data-line-start=94 data-line-end=95 ><a id="License_94"></a>License</h2>
 <p class="has-line-data" data-line-start="96" data-line-end="101">NC<br>
 (non commercial: I’m broke af mate)<br>
