@@ -7,3 +7,7 @@ Written by R.A. Nakka.
 
 casing.xls is an excel preadsheet  used to determine the Design Pressure and Burst Pressure of a solid rocket motor casing. Also determines the elastic deformation of the casing under pressure (important for case-bonding consideration). Strength and mechanical properties are supplied for many casing materials such as steels, aluminum alloys, PVC, etc.
 Written by Richard Nakka.
+
+
+
+https://meteor.open-sky.fr/#/home is another useful tool
