@@ -79,7 +79,7 @@ Also I am attaching some context images to help understand how to assemble every
 </tr>
 </tbody>
 </table>
-<p class="has-line-data" data-line-start="63" data-line-end="64">“*”&quot; = Affiliate link, but my integruty is more important than money. Reviews are 100% honest.</p>
+<p class="has-line-data" data-line-start="63" data-line-end="64">“*”&quot; = Affiliate link, but my integrity is more important than money. Reviews are 100% honest.</p>
 <h2 class="code-line" data-line-start=66 data-line-end=67 ><a id="Links_66"></a>Links</h2>
 <table class="table table-striped table-bordered">
 <thead>
