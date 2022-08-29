@@ -101,7 +101,7 @@ Instructions on how to use them in your own application are linked below.</p>
 <tbody>
 <tr>
 <td><a href="https://www.pcbway.com/setinvite.aspx?inviteid=500690">PCBway *</a></td>
-<td>good (FAST!!)  support, fast production and shipment. Matte color silkscreen.</td>
+<td>good (FAST!!!)  support, fast production and shipment. Matte color silkscreen.</td>
 <td>high price compared to competitors</td>
 </tr>
 <tr>
